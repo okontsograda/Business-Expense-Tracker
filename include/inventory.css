@@ -1,0 +1,19 @@
+body {
+  font-size: 12px;
+  padding-top: 65px;
+}
+
+.comment-input {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.table > thead > tr > th {
+  font-size: 12px;
+  vertical-align: middle;
+}
+
+.table > tbody > tr > td {
+  font-size: 12px;
+  vertical-align: middle;
+}

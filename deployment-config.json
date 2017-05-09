@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "192.168.2.16",
+    "username": "root",
+    "password": "qq",
+    "port": 22,
+    "remotePath": "/var/www/kbrothers",
+    "uploadOnSave": true
+}

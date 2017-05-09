@@ -1,0 +1,118 @@
+body {
+  font-size: 12px;
+  padding-top: 65px;
+}
+
+.divider-vertical {
+    height: 10px;                   /* any height */
+    border-left: 1px solid gray;     /* right or left is the same */
+    float: left;                     /* so BS grid doesn't break */
+    opacity: 0.5;                    /* optional */
+    margin: 0 15px;                  /* optional */
+}
+
+.form-punch {
+  margin-bottom: 0px;
+}
+
+.comment-input {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.expense-panel {
+  margin-bottom: 0;
+  padding: 0;
+  overflow: auto;
+  max-height: 262px;
+}
+
+.expense-panel > .table {
+  margin-bottom: 0;
+}
+
+.expense-table > thead > tr > th {
+  font-size: 14px;
+  vertical-align: middle;
+}
+
+.expense-table > tbody > tr > td {
+  font-size: 14px;
+  vertical-align: middle;
+  padding: 1.5px;
+  padding-left: 1px;
+}
+
+
+.table-user > thead > tr > th {
+  font-size: 12px;
+  vertical-align: middle;
+}
+
+.table-user > tbody > tr > td {
+  font-size: 12px;
+  vertical-align: middle;
+  padding: 1.5px;
+}
+
+.clickable{
+    cursor: pointer;   
+}
+
+.user-panel {
+	margin-bottom: 0;
+	padding: 0;
+	overflow: auto;
+}
+
+.user-panel > .table {
+	margin-bottom: 0px;
+}
+
+.panel-heading span {
+	margin-top: -20px;
+	font-size: 15px;
+}
+
+.msg {
+    background: #fefefe;
+    color: #666666;
+    font-weight: bold;
+    font-size: small;
+    padding: 12px;
+    padding-left: 16px;
+    border-top: solid 3px #CCCCCC;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 0 10px 10px -5px rgba(0,0,0,.08);
+       -moz-box-shadow: 0 10px 10px -5px rgba(0,0,0,.08);
+            box-shadow: 0 10px 10px -5px rgba(0,0,0,.08);
+}
+
+.msg-info {
+    border-color: #b8dbf2;
+    font-size: 14px;
+}
+
+.msg-danger {
+    border-color: #ec8282;
+}
+
+.btn.active {                
+  display: none;    
+}
+
+.btn span:nth-of-type(1)  {             
+  display: none;
+}
+.btn span:last-child  {             
+  display: block;   
+}
+
+.btn.active  span:nth-of-type(1)  {             
+  display: block;   
+}
+.btn.active span:last-child  {              
+  display: none;      
+}
+

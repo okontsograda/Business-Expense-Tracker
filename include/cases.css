@@ -1,0 +1,60 @@
+body {
+  font-size: 12px;
+  padding-top: 65px;
+}
+
+.case-panel {
+	padding: 0px;
+	margin-bottom: 0px;
+}
+
+.panel-custom {
+	border: none;
+}
+
+.nav-panel {
+	padding: 0px;
+	margin-bottom: 0px;
+}
+
+.nav-list {
+	margin-bottom: 0;
+}
+
+.case-subject {
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.case-detail {
+	font-size: 11px;
+	color: gray;
+}
+
+.nav-table {
+	color: white;
+	background: gray;
+}
+
+.case-table {
+	margin-bottom: 0;
+}
+
+.table > tbody > tr > td {
+	vertical-align: middle;
+}
+
+.table > thead > tr > td {
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.badge-font {
+	font-size: 14px;
+}
+
+.case-font {
+	font-size: 12px;
+}

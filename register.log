@@ -1,0 +1,61 @@
+Fri Jan 27 2017 1:28:58  [INFO] [login] session: admin username: admin -> redirecting to home page
+Fri Jan 27 2017 15:08:15  [INFO] [login] session: admin username: admin -> redirecting to home page
+Fri Jan 27 2017 21:50:25  [INFO] [login] session: yura username: yura -> redirecting to home page
+Fri Jan 27 2017 22:02:19  [INFO] [login] session: admin username: admin -> redirecting to home page
+Sat Jan 28 2017 1:48:45  [INFO] [login] session: admin username: admin -> redirecting to home page
+Sat Jan 28 2017 15:10:06  [INFO] [login] session: admin username: admin -> redirecting to home page
+Sun Jan 29 2017 1:47:29  [INFO] [login] session: admin username: admin -> redirecting to home page
+Sun Jan 29 2017 1:47:44  [INFO] [logout] Destroying session for admin
+Sun Jan 29 2017 22:27:10  [INFO] [login] session: admin username: admin -> redirecting to home page
+Mon Jan 30 2017 6:16:44  [INFO] [login] session: admin username: admin -> redirecting to home page
+Mon Jan 30 2017 14:48:40  [INFO] [login] session: yura username: yura -> redirecting to home page
+Tue Jan 31 2017 13:28:12  [INFO] [login] session: admin username: admin -> redirecting to home page
+Wed Feb 1 2017 0:19:03  [INFO] [login] session: bogdan username: bogdan -> redirecting to home page
+Wed Feb 1 2017 0:24:46  [INFO] [logout] Destroying session for bogdan
+Wed Feb 1 2017 0:24:46  [INFO] [logout] Destroying session for bogdan
+Wed Feb 1 2017 0:24:46  [INFO] [logout] Destroying session for 
+Wed Feb 1 2017 0:24:53  [INFO] [login] session: bogdan username: bogdan -> redirecting to home page
+Wed Feb 1 2017 20:59:23  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 2 2017 13:56:21  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 2 2017 16:38:16  [INFO] [login] session: yura username: yura -> redirecting to home page
+Thu Feb 2 2017 22:55:49  [INFO] [login] session: yura username: yura -> redirecting to home page
+Fri Feb 3 2017 1:56:46  [INFO] [login] session: admin username: admin -> redirecting to home page
+Fri Feb 3 2017 23:09:29  [INFO] [login] session: yura username: yura -> redirecting to home page
+Mon Feb 6 2017 22:15:31  [INFO] [login] session: admin username: admin -> redirecting to home page
+Tue Feb 7 2017 2:47:59  [INFO] [login] session: admin username: admin -> redirecting to home page
+Wed Feb 8 2017 22:00:14  [INFO] [login] session: admin username: admin -> redirecting to home page
+Tue Feb 14 2017 20:52:33  [INFO] [login] Incorrect password for yura -> password: passsword
+Tue Feb 14 2017 20:52:49  [INFO] [login] session: yura username: yura -> redirecting to home page
+Tue Feb 14 2017 21:15:30  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 15:23:08  [INFO] [logout] Destroying session for admin
+Thu Feb 16 2017 15:23:10  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 17:42:45  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 17:48:54  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 17:53:48  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 18:03:24  [INFO] [logout] Destroying session for admin
+Thu Feb 16 2017 18:03:25  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 18:03:27  [INFO] [logout] Destroying session for admin
+Thu Feb 16 2017 18:03:31  [INFO] [login] Incorrect password for yura -> password: yura
+Thu Feb 16 2017 18:03:34  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 18:07:07  [INFO] [logout] Destroying session for admin
+Thu Feb 16 2017 19:10:59  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 19:11:42  [INFO] [login] Incorrect password for Admin -> password: admin
+Thu Feb 16 2017 19:11:49  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 19:52:42  [INFO] [login] session: yura username: yura -> redirecting to home page
+Thu Feb 16 2017 19:55:56  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 19:58:39  [INFO] [logout] Destroying session for admin
+Thu Feb 16 2017 19:58:41  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 20:03:22  [INFO] [logout] Destroying session for admin
+Thu Feb 16 2017 20:03:28  [INFO] [login] session: yura username: yura -> redirecting to home page
+Thu Feb 16 2017 20:04:20  [INFO] [logout] Destroying session for yura
+Thu Feb 16 2017 20:04:22  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 20:11:11  [INFO] [logout] Destroying session for admin
+Thu Feb 16 2017 20:11:13  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 20:30:36  [INFO] [logout] Destroying session for admin
+Thu Feb 16 2017 20:30:37  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 20:30:55  [INFO] [logout] Destroying session for admin
+Thu Feb 16 2017 20:31:24  [INFO] [login] session: admin username: admin -> redirecting to home page
+Thu Feb 16 2017 20:36:49  [INFO] [logout] Destroying session for admin
+Thu Feb 16 2017 20:36:54  [INFO] [login] session: yura username: yura -> redirecting to home page
+Thu Feb 16 2017 20:36:57  [INFO] [logout] Destroying session for yura
+Thu Feb 16 2017 20:36:58  [INFO] [login] session: admin username: admin -> redirecting to home page

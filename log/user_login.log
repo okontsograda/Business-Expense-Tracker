@@ -1,0 +1,42 @@
+[Thu Feb 16 2017 20:03:48][INFO][Logout] Session detroyed for admin
+[Thu Feb 16 2017 20:04:07][INFO][Login] Session set for user: admin
+[Thu Feb 16 2017 21:41:12][INFO][Logout] Session detroyed for admin
+[Thu Feb 16 2017 21:41:55][INFO][Login] Session set for admin
+[Thu Feb 16 2017 21:42:33][INFO][Logout] Session detroyed for admin
+[Thu Feb 16 2017 21:43:25][INFO][Login] Session set for test
+[Thu Feb 16 2017 21:44:03][INFO][Logout] Session detroyed for test
+[Thu Feb 16 2017 21:44:08][INFO][Login] Session set for admin
+[Thu Feb 16 2017 22:05:40][INFO][Logout] Session detroyed for admin
+[Thu Feb 16 2017 22:05:42][INFO][Login] Session set for test
+[Thu Feb 16 2017 22:05:46][INFO][Logout] Session detroyed for test
+[Thu Feb 16 2017 22:05:48][ERRO][Login] Unable to query for users matching requested user: 
+[Thu Feb 16 2017 22:05:48][WARN][Login] Can't locate user in database -> user: 
+[Thu Feb 16 2017 22:06:31][INFO][Login] Session set for admin
+[Fri Feb 17 2017 4:34:50][INFO][Logout] Session detroyed for admin
+[Fri Feb 17 2017 4:34:54][INFO][Login] Session set for yura
+[Fri Feb 17 2017 4:35:15][INFO][Logout] Session detroyed for yura
+[Fri Feb 17 2017 4:35:19][INFO][Login] Session set for admin
+[Fri Feb 17 2017 18:29:28][INFO][Logout] Session detroyed for admin
+[Fri Feb 17 2017 18:29:31][INFO][Login] Session set for test
+[Fri Feb 17 2017 18:29:53][INFO][Logout] Session detroyed for test
+[Fri Feb 17 2017 18:29:59][INFO][Login] Session set for admin
+[Tue Feb 21 2017 3:34:00][INFO][Login] Session set for admin
+[Tue Feb 21 2017 3:34:20][INFO][Login] Session set for admin
+[Tue Feb 21 2017 3:34:26][INFO][Login] Session set for admin
+[Tue Feb 21 2017 3:34:38][INFO][Login] Session set for admin
+[Tue Feb 21 2017 3:35:41][WARN][redirect] Access attempted to reports.php without login -> redirecting to login
+[Tue Feb 21 2017 3:35:44][WARN][Login] Incorrect password was provided for admin
+[Tue Feb 21 2017 3:35:50][INFO][Login] Session set for admin
+[Tue Feb 21 2017 3:35:52][WARN][redirect] Access attempted to reports.php without login -> redirecting to login
+[Wed Feb 22 2017 4:19:59][WARN][redirect] Access attempted to reports.php without login -> redirecting to login
+[Wed Feb 22 2017 4:20:04][INFO][Login] Session set for admin
+[Wed Feb 22 2017 4:20:06][WARN][redirect] Access attempted to reports.php without login -> redirecting to login
+[Wed Feb 22 2017 5:17:49][INFO][Logout] Session detroyed for admin
+[Wed Feb 22 2017 5:17:53][INFO][Login] Session set for yura
+[Wed Feb 22 2017 5:19:27][INFO][Logout] Session detroyed for yura
+[Wed Feb 22 2017 5:19:32][INFO][Login] Session set for admin
+[Wed Feb 22 2017 20:33:33][INFO][Logout] Session detroyed for admin
+[Wed Feb 22 2017 20:33:40][WARN][Login] Incorrect password was provided for admin
+[Wed Feb 22 2017 20:33:45][INFO][Login] Session set for admin
+[Thu Mar 2 2017 15:59:06][WARN][Login] Incorrect password was provided for admin
+[Thu Mar 2 2017 15:59:11][INFO][Login] Session set for admin

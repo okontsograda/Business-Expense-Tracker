@@ -1,0 +1,27 @@
+
+body {
+  font-size: 12px;
+  padding-top: 65px;
+}
+
+.case-time {
+    font-size: 12px;
+    font-style: italic;
+    color: grey;
+}
+
+.panel-comment {
+    font-size: 13px;
+}
+
+.case-detail-label {
+    font-size: 14px;
+    text-decoration: underline;
+    color: #1a91e0;
+}
+
+.case-detail {
+    font-size: 13px;
+    color: grey;
+    padding-bottom: 12px;
+}
