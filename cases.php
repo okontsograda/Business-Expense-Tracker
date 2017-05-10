@@ -13,7 +13,7 @@ $logger = new logger();
 
 // Check if a session is set, if not -> redirect to login
 if ( ! isset ( $_SESSION['user'] ) ) {
-	$logger->log_message ( "[redirect] Access attempted to reports.php without login -> redirecting to login", 2, "user_login" );
+	$logger->log_message ( "[redirect] Access attempted to reports.php without login -> redirecting to login", 2, "kbrothers" );
   header ( "location: index.php" );
 }
 
@@ -146,7 +146,7 @@ $users = $dbh->connect_db()->query( $user_query )->fetchAll();
 												<div class="form-group">
 													<select class="form-control" name="assigned">
 														<option disabled selected="">Assign to</option>
-														<?php 
+														<?php
 															if ( isset ( $users ) && !empty ($users ) ) {
 																foreach ( $users as $usr ) {
 																	print '<option>' . $usr['username'] . '</option>';
@@ -160,7 +160,7 @@ $users = $dbh->connect_db()->query( $user_query )->fetchAll();
 												<div class="form-group">
 													<select class="form-control" name="requested">
 														<option disbaled selected>Requested by</option>
-														<?php 
+														<?php
 															if ( isset ( $users ) && !empty ( $users ) ) {
 																foreach ( $users as $usr ) {
 																	print '<option>' . $usr['username'] . '</option>';

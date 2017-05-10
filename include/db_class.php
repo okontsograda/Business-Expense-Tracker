@@ -5,7 +5,7 @@
     public function dbConnect( $db_name ) {
       $host       = 'localhost';
       $user       = 'root';
-      $password   = 'root';
+      $password   = 'Ol3g@123';
 
 
       try {

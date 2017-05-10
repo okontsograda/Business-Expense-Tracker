@@ -1,6 +1,6 @@
 {
     "type": "sftp",
-    "host": "192.168.2.16",
+    "host": "192.168.1.163",
     "username": "root",
     "password": "qq",
     "port": 22,

@@ -18,7 +18,8 @@ class DB {
 
 class Logger {
 
-  public function log_message($message, $value, $log) {
+  public function log_message($message, $log_type) {
+    $log_dir = "/var/log/kbrothers/";
     $TIMESTAMP    = date("D M j Y G:i:s");
     // Value - Detail Key
       /*
@@ -27,17 +28,17 @@ class Logger {
         3 -> ERROR
       */
 
-    $log_dir      = 'log/';
-    $log_file     = $log_dir . $log . ".log";
+    if ( $log_type == 1 || $log_type == 2 ) $log_file = $log_dir . "general.log";
+    if ( $log_type == 3 )                   $log_file = $log_dir . "error.log";
 
     // Logging for INFO
-    if ( $value == 1 ) { $message = "[" . $TIMESTAMP . "][INFO]" . $message . PHP_EOL; }
+    if ( $value == 1 ) $message = "[" . $TIMESTAMP . "][INFO]" . $message . PHP_EOL;
 
     // Logging for WARNING
-    if ( $value == 2 ) { $message = "[" . $TIMESTAMP ."][WARN]" . $message . PHP_EOL; }
+    if ( $value == 2 ) $message = "[" . $TIMESTAMP ."][WARN]" . $message . PHP_EOL;
 
     // Logging for ERROR
-    if($value == 3) { $message = "[" . $TIMESTAMP ."][ERRO]" . $message . PHP_EOL; }
+    if($value == 3) $message = "[" . $TIMESTAMP ."][ERRO]" . $message . PHP_EOL;
 
 
     return file_put_contents($log_file, $message, FILE_APPEND);
